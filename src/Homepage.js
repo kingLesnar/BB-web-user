@@ -18,8 +18,6 @@ const Homepage = () => {
            <Mainpage />
         </div>
     )
-    
-    
 }
 
 export default Homepage
