@@ -16,7 +16,7 @@ const Homepage = () => {
            <Header className="version_1" />
            <Navbar />
            <Mainpage />
-        </div>
+        </div> 
     )
 }
 
